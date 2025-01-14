@@ -1,6 +1,6 @@
 # CapCut Professional 5.5.0
 
-![CapCut Logo]((https://github.com/Kam4dile/capcut-pro-5.5.0/blob/main/photo_2025-01-15_06-40-24.jpg)) <!-- Replace with the actual logo URL -->
+[![CapCut Logo]([(https://github.com/Kam4dile/capcut-pro-5.5.0/blob/main/photo_2025-01-15_06-40-24.jpg)](https://github.com/Kam4dile/capcut-pro-5.5.0/blob/main/photo_2025-01-15_06-40-24.jpg))](https://github.com/Kam4dile/capcut-pro-5.5.0/blob/main/photo_2025-01-15_06-40-24.jpg) <!-- Replace with the actual logo URL -->
 
 ## Description
 
